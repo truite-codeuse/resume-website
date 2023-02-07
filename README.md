@@ -1,2 +1,3 @@
 # resume-website
-This website is just a resume with cool features like CSS transitions (transitions are cool)
+Just a repository to store my resume as a website (because I'm a true Gen-Z guy).
+Only true HTML/CSS/JS, no bootstrap or framework.
